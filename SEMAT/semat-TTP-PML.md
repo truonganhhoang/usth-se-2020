@@ -1,3 +1,5 @@
+Name and ID: Trịnh Thảo Phương (BI9-191) and Phạm Minh Long (BI9-146)
+
 The Software Energinning basics can be divided into 3 areas: Customer, Solution and Endeavor. The customer including Stakeholder and Opportunity. The solution will have the requirements and software system. And the endeavor contains work, way of working and team. All of these have a close connection with each other. 
 
 Stakeholders will identify opportunities then from these opportunities they demand requirements. Stakeholder uses and consumes Software System to helps to address opportunities and fulfills the requirements for the product. When the requirement is done, the team will work on the work or project with the help and support of the stakeholders.
