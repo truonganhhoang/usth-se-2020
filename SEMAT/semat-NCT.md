@@ -1,0 +1,9 @@
+Name: Nguyễn Chí Thành			ID Number: Bi9-211			 Major: ICT
+  SEMAT (Software Engineering Method and Theory) takes a different approach to software process altogether, and it has a great chance to take root and really influence the way we look at and execute our software projects. 
+The idea with SEMAT is to create an actionable, extensible and practical process framework, and a goal is to provide just the right amount of process and guidance to each individual project, and to do so in a transparent manner. 
+It is sufficient to know that SEMAT is a process framework that defines what they call a ‘Kernel’ of elements that represent the “things” that are invariably present in all software projects. The Kernel defines seven Alphas: Opportunity, Stakeholder, Requirements, System, Team, Work, and Way of Working.
+Therefore, to be more specific, we can see the picture consists of three parts. 
+The first section is about Customer, with two factors, which are Opportunity and Stakeholders. In this part, Stakeholders, who use and consume or sell the Software System, will identify Opportunity, support the Team and demand them some Requirements. And Opportunity will focus on fulfilling Requirements. 
+The second one is about Solution, with the Software System and the Requirements. Firstly, the Software System, is produced by the Team to fulfill some Requirements, which helps to address Opportunity. Secondly, the Requirements will have some Scopes and Constraints to the Work of the Team. 
+The last section is about Endeavor, consists of Work, Team and Way of Working. To begin with, the Team, who produces the Software System and supported by the Stakeholders, will apply Way of Working in order to plan and perform Work. On the other hand, Work, which is guided by Way of Working, will then go back to update and change the Software System to address the Opportunity. 
+To conclude, Endeavor is set up to become a Solution for the Customer.
