@@ -1,7 +1,0 @@
-	Nguyen Truong Giang - BI9-084
-	Dang Anh Duc - BI9-068
-
-	SEMAT picture
-
-		In software engineering, the programming practice starts with the demands of the stakeholders for a software that serves their needs. First of all,
-	 customers, which can be yourself, will identify the existing opportunities, for example a medical record controlling system for hospitals, or even for countries that lack one. From the identified chances, a set of requirements will be established for their software. Based on the given expectation of the investor, the software engineering team will have to create a project plan, and perform the amount of work needed to deliver the product.Each team will have their own ways of working together, such as divide and conquer or working on each part of the software together. The developers have to come up with and apply the most suitable strategy for each project. The team has to make sure that the work that they planned is set up to address the stakeholders' vision of their opportunities. In addition, the final software must fulfill all requirements and be able to address the opportunities presented, and is regularly updated and changed by the developers.
