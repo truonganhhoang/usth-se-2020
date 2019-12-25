@@ -1,0 +1,21 @@
+## Components of the Essence of Software Engineering
+
+~ Nguyen Van Tung - BI9-229 ~
+~ Tran Hong Minh - BI8-114 ~
+
+Stakeholders are the people or organization who are in need of a software system. 
+They identify the opportunity and demand the requirements to complete the software system.
+The stakeholder is a source of fund, providing support for the team, to ensure the required software system is produced.
+That opportunity is the condition for the development and expansion of such software system,
+The opportunity assert the purpose of creating a new software system or modification of the system.
+
+Requirements are the needs of a software system to satisfy the opportunities and stakeholders.
+The requirements are discussed and perceived by the stakeholders and the team, which are brought into the development and testing of the project.
+The software system consists of software, hardware and data implementation to fulfil such requirements. 
+Created from engineering primary contributes to great scale.
+
+Work is the effort and contribution of the team to meet the requirements of a software system production. 
+The scope and constraints are defined through requirements, presented by the stakeholders.
+During the work period, updates are proposed to change and modify the software system. A team is, therefore, initiated to plan and execute the work, producing the software system.
+Teams are actively engaged in development, deployment and maintenance of the project.
+The ways of working is developed through the progression of projects. Teams apply this way of working to progress faster.
