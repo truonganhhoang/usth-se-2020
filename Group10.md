@@ -21,14 +21,6 @@ Comment
 Share/Tweet,...
 We won’t make it in tranditional/ old-fashion ways. We’ll host the website on http://fatile.000webhostapp.com Note: cause of finance, we use free host provided by http://000webhost.com
 
-Our Development Process
-We take a structured approach to web design. Our development process was created to ensure every project is on-time. Once our web design project kicks off, here’s what to expect:
-
-Initial Planning
-Wireframing
-Mockups
-Copy & Graphics
-Development
-Testing
-Deployment & Optimization
+Some notes about our projects:
+We will do it in the form of a blog or a bit more like Reddit than the normal online newspaper so that we can reach more readers, as well as people, can discuss and express opinions on it.
 
