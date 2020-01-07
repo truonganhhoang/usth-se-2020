@@ -36,10 +36,8 @@ We want to help the user in:
 - Motivation to help achieve dreams
 
 ## *3. Highlight*
-It's the combination between List-to-do and financial spending. After some update, we will create a minigame to stimulate the desire to accomplish the set goals. Also, we will help to user to assess the importance of setting goals so they have to consider what to finish first. 
+It's the combination between List-to-do and financial spending. After some update, we will create a minigame to stimulate the desire to accomplish the set goals. Also, we will help user to assess the importance of setting goals so they have to consider what to finish first.
 
-When the user achieve goal, they wil get the points to race with the other. The reward will be add to upgrade things in minigame.
+When user achieves goal, they will get the points to race with others. The reward will be added to upgrade things in the minigame.
 
-The minigame can be like have your own pet or simply a garden. The game will have some points use for grow pet or raise tree, buy background, buy more pets or buy decoration. The game will not take the user's time and bring peaceful atmosphere because we don't want to user to be too focus on the game and they need time to relax and free the mind.
-
-
+The minigame can be like having your own pet or simply a garden. The game will have some points used for growing pet or raising tree, buy background, buying more pets or buying decoration. The game will not take the user's time and bring peaceful atmosphere because we don't want user focuses too much on the game and they need time to relax and free the mind.
