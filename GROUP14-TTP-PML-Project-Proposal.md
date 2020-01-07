@@ -23,8 +23,7 @@
    
    > How many plans do you have and still remember?
    
-  People are hard to manage and save up enough money for their dreams, they usually spend over their budget because of many attractive items while you're surfing the web, Facebook, Instagram, etc.
-  These day, it is hard to remember and focus to what you have wish to done. It's also hard to keep track of how far you have done or what you need to prepare. So this app will help you to list what you want to do before some events of your life, to predict how much money you need to complete it and remind what you need to prepare.
+ People are hard to manage and save up enough money for their dreams, they usually spend over their budget because of many attractive items while you're surfing the web, Facebook, Instagram, etc. These day, it is hard to remember and focus on what you wished to be done. It's also hard to keep track of how far you have done or what you need to prepare. So this app will help you to list what you want to do before some events of your life, to predict how much money you need to complete it and remind what you need to prepare.
    
 ## *2. Goals*
 We want to help the user in: 
