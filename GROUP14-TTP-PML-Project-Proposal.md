@@ -37,5 +37,9 @@ We want to help the user in:
 
 ## *3. Highlight*
 It's the combination between List-to-do and financial spending. After some update, we will create a minigame to stimulate the desire to accomplish the set goals. Also, we will help to user to assess the importance of setting goals so they have to consider what to finish first. 
-The minigame can be like have your own pet or simply a garden. The game will have some points use for grow pet or raise tree, buy background, buy more pets or buy decoration. The game will not take the user's time and bring peaceful atmosphere because we don't want to user to be too focus on the game and they need time to relax and free the mind.
+
 When the user achieve goal, they wil get the points to race with the other. The reward will be add to upgrade things in minigame.
+
+The minigame can be like have your own pet or simply a garden. The game will have some points use for grow pet or raise tree, buy background, buy more pets or buy decoration. The game will not take the user's time and bring peaceful atmosphere because we don't want to user to be too focus on the game and they need time to relax and free the mind.
+
+
