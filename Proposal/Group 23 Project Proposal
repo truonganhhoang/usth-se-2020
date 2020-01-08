@@ -1,0 +1,29 @@
+Group 23 project proposal 
+
+Online video extractor
+
+## Situation: 
+
+As the need of free music and samples as well as offline usage of video entertainments, 
+massive corporations usually overcharge assets in order to maximize their profit without any care to their customers. 
+That is why the Online Video Extractor is a perfect tool for a fast way to be able to access the assets for wanted for free 
+and in a very easy way with a just a few clicks.
+
+
+## Features:
+
+The extractor is:
++ a webpage that allows you to paste a YouTube URL 
++ offer 3 options to extract: Video w/ Sound, Video Only and Sound Only
++ the page also offers different quality of video to the user (1080p, 720p,...)
+
+## Resources:
+
+The page will use HTML, CSS and JavaScript.
+
+
+## Risks:
+
++ Some restricted audiences videos, private videos or region lock videos would be unable to be accessed.
+
++ Copyright laws.
