@@ -5,6 +5,7 @@ Project: Alarming app
 
 Members:
 Nguyễn Lan Anh - BI9244
+Lê Việt Anh - BI9035
 Trần Ngọc Mai - BI9160
 Trần Thị Hương Giang - BI9085
 
