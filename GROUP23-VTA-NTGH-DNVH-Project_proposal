@@ -1,0 +1,13 @@
+1. Background
+These days, there is a new popular kind of entertainment on social networks called memes. Memes are usually pictures or videos taken from movies, other videos that are edited to make it funny. However, most people don't know how to get a "template" to make one or even how to make one (mostly because it usually requires a photoshop application that not everyone can afford and know how to use).
+
+2. Proposal
+2.1. Visions & Goals
+Our team has the intention to build a website which can store meme templates in picture, video and music format (yes some songs are weird enough to be a meme) with a meme maker available for the picture format. This way, people who doesn't own a photoshop application can make memes easily with access to a mass storage of tenplates. Additionally, users who cannot find the templates they want can upload it to our storage and have them approved by other people. Should them be approved by enough people, the website will add it to the storage, else the template can still be used in the meme maker, but won't be uploaded to the storage for public use.
+2.2. Risks & Issues
+2.2.1. Risks
+- Since the templates are taken from songs, movies, videos that are copyrighted, some of them might be illegal. However, as long as the memes are not commercially used, it should be fine.
+- Some memes contain dark humour so some people might be offended.
+2.2.2. Issues
+- Our team members are still new to programming with limited coding skills.
+- Meme templates have a wide range of diversity makes it hard to store enough in a short time.
