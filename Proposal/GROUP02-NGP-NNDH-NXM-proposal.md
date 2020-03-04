@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-**Palace** (Pythonic Audio Library and Codecs Environment) aims to be
+[**Palace**][10] (Pythonic Audio Library and Codecs Environment) aims to be
 a intuitive Python 3D audio API by wrapping around [alure][0], which in turn
 is a high-level library using [OpenAL][1].
 
@@ -101,3 +101,4 @@ manage the workload and resource accordingly.
 [7]: https://github.com/moderngl/moderngl
 [8]: https://en.wikipedia.org/wiki/Head-related_transfer_function
 [9]: https://cython.org/
+[10]: https://github.com/McSinyx/palace
