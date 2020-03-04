@@ -1,4 +1,5 @@
-# Project Proposal
+# Project name: Text Summarizer
+# Project Proposal:
 
 **Document owner**
 
@@ -15,6 +16,8 @@ Dao Duong Hoang Long
 
 2.1        Vision and Goals
 
+2.2        Plans
+
 2.2        Risks &amp; Issues
 
 2.3        Implications
@@ -22,9 +25,6 @@ Dao Duong Hoang Long
 2.4        Success Criteria
 
 2.5        Authorization
-
-3        Appendix
-
 
 
 ## 1. Background
@@ -44,6 +44,13 @@ Our team has the intention to build a software which can automatically summarize
 The process is simple: the user inputs a pdf and wait. The software processes the file and exports a new one, containing only the summarization.
 
 This software can be helpful tool for students to learn productively and absorb knowledge easily. Moreover, lecturers can benefit from it when designing lecture slides based on textbooks.
+
+### 2.2 Plans
+
+Our team is going to build a neural network to classify words in the text and elicit the most important keywords.
+Our platform is going to be Python and the kernel we plan to use can be found [here.](https://www.kaggle.com/au1206/text-classification-using-cnn)
+
+Besides, we are going to implement our application's UI with Figma. [Click here.](https://www.figma.com/file/ZSctHH5q0kA7mcsh6l9EZK/UI-text-summarizer?node-id=0%3A1)
 
 ### 2.2 Risks &amp; Issues
 
@@ -83,6 +90,3 @@ This largely depends on the efficiency of our algorithm. The more we improve and
 
 ### 2.5 Authorization
 **Professor** Truong Anh Hoang
-
-
-## 3. Appendixm
