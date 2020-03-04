@@ -41,8 +41,12 @@ Javascript  <br>
 Spotify API <br>
 OpenWeatherMap API <br>
 Spotify Account integration <br>
+Codeigniter Framework <br>
 Apache Server <br>
 Hosting Web using Amazon Web Services <br>
 
 ### **Challenges**
 The main product challenges will be to create an effective method for recommending playlists and making sure that the Spotify and OpenWeatherMap integration works properly. Some of the team members lack experiences in creating a software. 
+
+### **Figma Prototype Link**
+*https://www.figma.com/proto/hECCWsGyjfPBfcCyYVjfbq/Moodify.net?node-id=75%3A26&scaling=min-zoom*
