@@ -23,7 +23,7 @@ If possible, attendance checking can be integrated to this app.
 
 ### 3. Risks 
 
-The all-in-one has minor problems, being that some feature may not be available offline due to sychronization with online calendar and drive. The app may not be applicable to everyone as customization, such as for work or for personal use. (Future release)
+The all-in-one has minor problems, being that some feature may not be available offline due to synchronization with online calendar and drive. The app may not be applicable to everyone as customization, such as for work or for personal use. (Future release)
 
 ### 4. Success Criteria
  
@@ -32,3 +32,7 @@ The all-in-one has minor problems, being that some feature may not be available 
 3. Committing to the project
 
 ### 5. Glossary
+
+### 6. Prototype
+
+@Figma https://www.figma.com/file/wM5qWZAbqBxEg7emrnTsgm/Prototype
