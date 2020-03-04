@@ -23,7 +23,7 @@ Phùng Kim Sơn BI9-202
 
 3        Appendix        
 
-
+4       Figma Prototype Link
 
 ## 1. Background
 
@@ -83,5 +83,7 @@ But gardening is not an easy task and making a garden, not on the surface ground
 _Position:_
 _Date: _
 
-
 ## 3. Appendix
+
+## 4. Figma Prototype Link
+https://www.figma.com/file/we3NUttmiuvuyUWMRaTNiZ/GreenUs?node-id=0%3A1
