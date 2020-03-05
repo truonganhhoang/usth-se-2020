@@ -25,6 +25,8 @@ Phùng Kim Sơn BI9-202
 
 4       Figma Prototype Link
 
+5       Similar Software Product
+
 ## 1. Background
 
 In this stressful soceity, many people are strained with work and deadlines. This attention we devote to our emails and our smartphones is considered a form of &quot;directed attention&quot; that our brains have only a finite amount of capacity for. When we overload we become irritable, error-prone, and stressed out. Gardening is a cure! Gardening is one of the most rewarding hobbies people can do, with long-lasting positive effects to themself, community, and to the world at large. A growing phenomenon across the world!
@@ -87,3 +89,14 @@ _Date: _
 
 ## 4. Figma Prototype Link
 https://www.figma.com/file/we3NUttmiuvuyUWMRaTNiZ/GreenUs?node-id=0%3A1
+
+## 5. Similar Software Product 
+The application that we find it is similar to our product is [Happy Plant](https://happyplants.garden/). Also, here is its [GitHub Repository](https://github.com/morkro/happy-plants)
+
+The reason why we choose this product
+
+1. First of all, *Happy Plant* share the same idea to our upcomming product, which is to control and manage your plants.
+2. Secondly, as they have done their product, so our team can learn from what they did to develop our software.
+3. Thirdly, some of the features in *Happy Plant* are really interesting so that it gives us the inspriration to continuously improve our software to serve the best for users.  
+
+
