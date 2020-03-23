@@ -36,3 +36,4 @@ The all-in-one has minor problems, being that some feature may not be available 
 ### 6. Prototype
 
 @Figma https://www.figma.com/file/wM5qWZAbqBxEg7emrnTsgm/Prototype
+@SRS   https://docs.google.com/document/d/1rh_GcVmpChAbWLGPHV6tNWifQ49B2uN5wCZhpiGj3V4/edit?usp=sharing
